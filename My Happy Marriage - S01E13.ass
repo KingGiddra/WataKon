@@ -13,11 +13,11 @@ LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 293
+Scroll Position: 138
+Active Line: 158
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,HYXuanSong 55S,70,&H00FDFDFD,&H000000FF,&H1E40323D,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,58,1
 Style: Dial-ENG,Calibri,72,&H00FDFDFD,&H000000FF,&H1E40323D,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,5,1
 
 [Events]
@@ -180,7 +180,7 @@ Dialogue: 1,0:12:09.96,0:12:10.48,Dial-ENG,,0,0,0,,Yes.
 Dialogue: 1,0:12:13.68,0:12:15.86,Dial-ENG,,0,0,0,,I'm glad we got to chat this evening.
 Dialogue: 1,0:12:16.39,0:12:17.40,Dial-ENG,,0,0,0,,I'll see you soon.
 Dialogue: 1,0:12:18.76,0:12:19.39,Dial-ENG,,0,0,0,,Yes!
-Dialogue: 1,0:12:31.77,0:12:35.21,Dial-ENG,,0,0,0,,I never thought you'd be able to talk with the prince so openly. 堯人様と　あんなに堂々と話せるとは
+Dialogue: 1,0:12:31.77,0:12:35.21,Dial-ENG,,0,0,0,,I never thought you'd be able to talk with the prince so openly.
 Dialogue: 1,0:12:36.59,0:12:37.73,Dial-ENG,,0,0,0,,You were genuine.
 Dialogue: 1,0:12:39.41,0:12:40.98,Dial-ENG,,0,0,0,,Thank you!
 Dialogue: 1,0:13:32.26,0:13:33.16,Dial-ENG,,0,0,0,,Are you okay?
